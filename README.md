@@ -42,6 +42,32 @@ Key highlights:
 
 ---
 
+## Live Preview
+
+Try out **Prescripto** using the links and demo credentials below for each user role.
+
+### 🔗 Application Links
+
+- **Doctor & Admin Portal:** [https://dockit-admin.netlify.app/](https://dockit-admin.netlify.app/)
+- **User Portal:** [https://dockit.netlify.app/](https://dockit.netlify.app/)
+
+### 🧑‍💼 Admin Login
+
+- **Email:** admin@example.com
+- **Password:** greatstack123
+
+### 👨‍⚕️ Demo Doctor Login
+
+- **Email:** rishu@gmail.com
+- **Password:** 12345678
+
+### 🙍‍♂️ Demo User Login
+
+- **Email:** demo@gmail.com
+- **Password:** 12345678
+
+---
+
 ## Features
 
 ✔ **Multi-role Authentication**  
