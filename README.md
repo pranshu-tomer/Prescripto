@@ -53,8 +53,8 @@ Try out **Prescripto** using the links and demo credentials below for each user 
 
 ### 🧑‍💼 Admin Login
 
-- **Email:** admin@example.com
-- **Password:** greatstack123
+- **Email:** admin@gmail.com
+- **Password:** admin1234
 
 ### 👨‍⚕️ Demo Doctor Login
 
