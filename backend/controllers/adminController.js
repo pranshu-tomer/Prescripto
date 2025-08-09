@@ -125,7 +125,6 @@ const allDoctors = async (req, res) => {
     }
 }
 
-// API to get dashboard data for admin panel
 const adminDashboard = async (req, res) => {
     try {
 
